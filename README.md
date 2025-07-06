@@ -7,7 +7,7 @@
 
 Licensing 
 
-📜 Custom License: Quectobyte Attribution License (QAL) v1.0
+📜 Custom License: Entropyscannerv2 (EAL) v1.0
 Author & Originator: Cadell Richard Anderson Date: July 2025
 
 1. Purpose
